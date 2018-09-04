@@ -36,6 +36,8 @@ gem 'mysql2', '~>0.3.18'
 
 gem 'capistrano', '~>2.0'
 
+gem 'ddtrace'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
