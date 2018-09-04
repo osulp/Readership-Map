@@ -54,3 +54,4 @@ bower.json
 /config/unicorn.rb
 .coveralls.yml
 
+/.idea/*
