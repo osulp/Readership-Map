@@ -109,7 +109,7 @@ GEM
     logging (2.2.2)
       little-plugger (~> 1.1)
       multi_json (~> 1.10)
-    loofah (2.2.2)
+    loofah (2.2.3)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.0)
@@ -135,7 +135,7 @@ GEM
       net-ssh (>= 4.0.0)
     newrelic_rpm (5.3.0.346)
     nio4r (2.3.1)
-    nokogiri (1.8.4)
+    nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
     os (0.9.6)
     passenger (5.3.4)
@@ -147,7 +147,7 @@ GEM
     pry-rails (0.3.6)
       pry (>= 0.10.4)
     public_suffix (3.0.3)
-    rack (2.0.5)
+    rack (2.0.6)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (5.0.7)
@@ -270,4 +270,4 @@ DEPENDENCIES
   web-console (~> 2.0)
 
 BUNDLED WITH
-   1.16.1
+   1.17.1
